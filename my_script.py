@@ -1,3 +1,3 @@
 import os
 
-print("My working directory is: ", (os. getcwd()))
+print("My working directory is: ")
